@@ -196,8 +196,10 @@ function styleAd(event) {
       document.getElementById("triangle-topleft").style.borderRight = "16px solid transparent";
       document.getElementById("triangle-cta").style.borderTop = "4px solid #2d0f3a";
       document.getElementById("triangle-cta").style.borderRight = "8px solid transparent";
-
       break;
+
+    default:
+      document.getElementById("ad").innerHTML = "Wrong ad size &#9785;";
   }
 
   document.getElementById("ad").style.opacity = "1";
