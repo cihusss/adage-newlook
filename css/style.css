@@ -60,7 +60,12 @@ body {
   font-size: 18px;
   font-weight: bold;
   color: white;
+  transition: background .4s ease;
   /*text-transform: uppercase;*/
+}
+
+#ad:hover > #cta {
+  background: #62358F;
 }
 
 #value {
