@@ -97,4 +97,5 @@ body {
 
 #flood {
   opacity: 0;
+  position: absolute;
 }
