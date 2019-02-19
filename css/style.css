@@ -94,3 +94,7 @@ body {
   top: 0;
   left: 0;
 }
+
+#flood {
+  display: opacity: 0;
+}

@@ -62,8 +62,11 @@ if (leaf == "${CUSTOM_MODEL_LEAF_NAME}") {
 function setPixel(pixel) {
   var img = document.createElement("img");
   var src = document.createAttribute("src");
-  src.value = pixel; 
-  img.setAttributeNode(src);   
+  var id = document.createAttribute("id");
+  src.value = pixel;
+  id.value = "flood"; 
+  img.setAttributeNode(src); 
+  img.setAttributeNode(id);  
   document.getElementById("ad").appendChild(img);
 }
 
