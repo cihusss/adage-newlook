@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "LEAF": 0,
+      "AUDIENCE": "none",
+      "SEGMENT_ID": "tbd",
+      "CHANNEL": "desktop",
+      "HEADLINE_1": "Triad helps brands engage shoppers at retail.",
+      "CTA": "Start Here",
+      "BACKGROUND_IMAGE": "img/bg00.png",
+      "URL": "https://www.triadretail.com",
+      "pixel": ""
+    },
+    {
+      "LEAF": 1,
+      "AUDIENCE": "scj",
+      "SEGMENT_ID": "tbd",
+      "CHANNEL": "desktop",
+      "HEADLINE_1": "Triad helps SCJ engage shoppers at retail.",
+      "CTA": "Start Here",
+      "BACKGROUND_IMAGE": "img/bg00.png",
+      "URL": "https://www.triadretail.com",
+      "pixel": "https://secure.adnxs.com/px?id=1057771&t=2"
+    },
+    {
+      "LEAF": 2,
+      "AUDIENCE": "foodie",
+      "SEGMENT_ID": "pg",
+      "CHANNEL": "desktop",
+      "HEADLINE_1": "Triad helps P&G engage shoppers at retail.",
+      "CTA": "Start Here",
+      "BACKGROUND_IMAGE": "img/bg00.png",
+      "URL": "https://www.triadretail.com",
+      "pixel": "https://secure.adnxs.com/px?id=1057772&t=2"
+    },
+    {
+      "LEAF": 3,
+      "AUDIENCE": "jj",
+      "SEGMENT_ID": "tbd",
+      "CHANNEL": "mobile",
+      "HEADLINE_1": "Triad helps J&J engage shoppers at retail.",
+      "CTA": "Start Here",
+      "BACKGROUND_IMAGE": "img/bg00.png",
+      "URL": "https://www.triadretail.com",
+      "pixel": "https://secure.adnxs.com/px?id=1057773&t=2"
+    },
+    {
+      "LEAF": 4,
+      "AUDIENCE": "unilever",
+      "SEGMENT_ID": "tbd",
+      "CHANNEL": "mobile",
+      "HEADLINE_1": "Triad helps Unilever engage shoppers at retail.",
+      "CTA": "Start Here",
+      "BACKGROUND_IMAGE": "img/bg00.png",
+      "URL": "https://www.triadretail.com",
+      "pixel": "https://secure.adnxs.com/px?id=1057774&t=2"
+    },
+    {
+      "LEAF": 5,
+      "AUDIENCE": "loreal",
+      "SEGMENT_ID": "tbd",
+      "CHANNEL": "mobile",
+      "HEADLINE_1": "Triad helps L’Oreal engage shoppers at retail.",
+      "CTA": "Start Here",
+      "BACKGROUND_IMAGE": "img/bg00.png",
+      "URL": "https://www.triadretail.com",
+      "pixel": "https://secure.adnxs.com/px?id=1057775&t=2"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+/*@import url('https://fonts.googleapis.com/css?family=Titillium+Web');*/
+@import url("https://use.typekit.net/hnq0hrf.css");
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#wrapper {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+}
+
+#wrapper a { text-decoration: none; }
+
+#ad {
+  box-sizing: border-box;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: neusa-next-std, sans-serif;
+  font-weight: 400;
+  border: 1px solid #b1b1b1;
+  opacity: 0;
+  padding: 20px;
+  background-color: #2d0f3a;
+}
+
+#headline {
+  /*position: absolute;*/
+  line-height: 1.2em;
+  font-size: 22px;
+  font-weight: 300;
+  color: white;
+  width: 95%;
+}
+
+#logo {
+  position: absolute;
+}
+
+#cta {
+  position: absolute;
+  background: #2bd6c1;
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  /*text-transform: uppercase;*/
+}
+
+#value {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  font-size: 9px;
+  color: white;
+  text-align: right;
+  background: black;
+  padding: 0 2px;
+  opacity: 0;
+}
+
+#triangle-topleft {
+  width: 0;
+  height: 0;
+  border-top: 30px solid white;
+  border-right: 60px solid transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#triangle-cta {
+  width: 0;
+  height: 0;
+  border-top: 8px solid #2d0f3a;
+  border-right: 16px solid transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
