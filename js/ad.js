@@ -159,7 +159,7 @@ function styleAd(event) {
       document.getElementById("headline").style.fontSize = "22px";
       document.getElementById("headline").style.width = "100%";
       document.getElementById("headline").style.paddingRight = "70px";       
-      document.getElementById("cta").style.bottom = "24px";
+      document.getElementById("cta").style.bottom = "26px";
       document.getElementById("cta").style.right = "20px";
       document.getElementById("triangle-topleft").style.borderTop = "15px solid white";
       document.getElementById("triangle-topleft").style.borderRight = "30px solid transparent";
@@ -173,7 +173,7 @@ function styleAd(event) {
       document.getElementById("headline").style.fontSize = "24px";
       document.getElementById("headline").style.width = "60%";
       document.getElementById("headline").style.paddingRight = "70px";      
-      document.getElementById("cta").style.bottom = "24px";
+      document.getElementById("cta").style.bottom = "26px";
       document.getElementById("cta").style.right = "30px";
       document.getElementById("triangle-topleft").style.borderTop = "15px solid white";
       document.getElementById("triangle-topleft").style.borderRight = "30px solid transparent";
